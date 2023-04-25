@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_8\xmlwriter\bin\Debug\net7.0\ExerciceXmlWriter.exe
+C:\wamp64\www\.Net\Section_8\xmlwriter\bin\Debug\net7.0\ExerciceXmlWriter.deps.json
+C:\wamp64\www\.Net\Section_8\xmlwriter\bin\Debug\net7.0\ExerciceXmlWriter.runtimeconfig.json
+C:\wamp64\www\.Net\Section_8\xmlwriter\bin\Debug\net7.0\ExerciceXmlWriter.dll
+C:\wamp64\www\.Net\Section_8\xmlwriter\bin\Debug\net7.0\ExerciceXmlWriter.pdb
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.dll
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\refint\ExerciceXmlWriter.dll
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.pdb
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ExerciceXmlWriter.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_8\xmlwriter\obj\Debug\net7.0\ref\ExerciceXmlWriter.dll
